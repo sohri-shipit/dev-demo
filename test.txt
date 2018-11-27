@@ -1,1 +1,2 @@
 this is a test file for feature1 branch
+Adding line2 for feature2
